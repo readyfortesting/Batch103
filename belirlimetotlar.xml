@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/ADMIN/IdeaProjects/SeleniumPractice/src/test/java/tests/dataprovider/Day24_DataProviderTest1.java">
+        <classes>
+            <class name="tests.dataprovider.Day24_DataProviderTest1">
+                <methods>
+                    <include name="aramaTesti"/>
+                    <include name="googleAramasi"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
